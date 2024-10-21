@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xgv96J4dvX8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eap66\\Documents\\GitHub\\GameCharactersAssignment\\GameCharactersAssignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eap66\\.nuget\\packages\\nlog\\5.3.4\\nlog.5.3.4.nupkg.sha512"
+  ],
+  "logs": []
+}

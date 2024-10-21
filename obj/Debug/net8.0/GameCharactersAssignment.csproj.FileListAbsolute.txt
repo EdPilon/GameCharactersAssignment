@@ -1,0 +1,17 @@
+C:\Users\eap66\Documents\GitHub\GameCharactersAssignment\bin\Debug\net8.0\GameCharactersAssignment.exe
+C:\Users\eap66\Documents\GitHub\GameCharactersAssignment\bin\Debug\net8.0\GameCharactersAssignment.deps.json
+C:\Users\eap66\Documents\GitHub\GameCharactersAssignment\bin\Debug\net8.0\GameCharactersAssignment.runtimeconfig.json
+C:\Users\eap66\Documents\GitHub\GameCharactersAssignment\bin\Debug\net8.0\GameCharactersAssignment.dll
+C:\Users\eap66\Documents\GitHub\GameCharactersAssignment\bin\Debug\net8.0\GameCharactersAssignment.pdb
+C:\Users\eap66\Documents\GitHub\GameCharactersAssignment\bin\Debug\net8.0\NLog.dll
+C:\Users\eap66\Documents\GitHub\GameCharactersAssignment\obj\Debug\net8.0\GameCharactersAssignment.csproj.AssemblyReference.cache
+C:\Users\eap66\Documents\GitHub\GameCharactersAssignment\obj\Debug\net8.0\GameCharactersAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eap66\Documents\GitHub\GameCharactersAssignment\obj\Debug\net8.0\GameCharactersAssignment.AssemblyInfoInputs.cache
+C:\Users\eap66\Documents\GitHub\GameCharactersAssignment\obj\Debug\net8.0\GameCharactersAssignment.AssemblyInfo.cs
+C:\Users\eap66\Documents\GitHub\GameCharactersAssignment\obj\Debug\net8.0\GameCharactersAssignment.csproj.CoreCompileInputs.cache
+C:\Users\eap66\Documents\GitHub\GameCharactersAssignment\obj\Debug\net8.0\GameChar.372A9E2E.Up2Date
+C:\Users\eap66\Documents\GitHub\GameCharactersAssignment\obj\Debug\net8.0\GameCharactersAssignment.dll
+C:\Users\eap66\Documents\GitHub\GameCharactersAssignment\obj\Debug\net8.0\refint\GameCharactersAssignment.dll
+C:\Users\eap66\Documents\GitHub\GameCharactersAssignment\obj\Debug\net8.0\GameCharactersAssignment.pdb
+C:\Users\eap66\Documents\GitHub\GameCharactersAssignment\obj\Debug\net8.0\GameCharactersAssignment.genruntimeconfig.cache
+C:\Users\eap66\Documents\GitHub\GameCharactersAssignment\obj\Debug\net8.0\ref\GameCharactersAssignment.dll
